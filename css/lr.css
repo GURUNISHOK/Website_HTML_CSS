@@ -1,0 +1,35 @@
+body{
+font-family: 'times new roman' , calibria , sans-serif;
+background-color:lightgreen;font-size:20px;
+}
+#marquee{
+font-size:25px;}
+#navigation
+{
+height:60px;
+0border:3px solid #e3e3e3;
+margin-top:5px;
+background-image: url(../images/cse.png);
+}
+ul#navmenu
+{
+list-style-type:none;
+font-size:20px;
+}
+ul#navmenu
+li{
+width:200px;
+text-align:centre;
+float:left;
+margin-right:4px;
+}
+ul#navmenu a  
+{
+text-decoration:none;
+display: block;
+width: 180px;
+height: 25px;
+background-color:white;
+border: 1px solid black;
+border-edges:5px;
+}
